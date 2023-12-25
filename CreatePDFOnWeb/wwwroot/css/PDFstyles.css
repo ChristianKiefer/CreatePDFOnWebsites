@@ -1,0 +1,25 @@
+﻿
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid blue;
+    font-size: 22px;
+}
+
+td, th {
+    padding: 10px;
+}
+
+th {
+    background-color: blue;
+    color: white;
+    text-align: left;
+}
